@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h1 ><b>Hi , I'm Carlos R </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+🛠️ Software Engineer 40% | 🚀 AI Enthusiast | 👨‍💻 Student and passionate for the TI
 
-<!--
-**GhCarlozz/GhCarlozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+- 🌱 I’m currently learning
+- 👥 Open to new ideas and friendships in the industry
+- 📁 You can see the projects that I have published so far by scrolling down
+## 💎 Skills
+(I'm still learning so far)
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,vscode" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆✨Technologies to learn soon
+
+<img src="https://skillicons.dev/icons?i=mysql,py,react" />
