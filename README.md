@@ -3,7 +3,7 @@
 
 
 <h1 ><b>Hi , I'm Carlos R </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-🛠️ Software Engineer 40% | 🚀 AI Enthusiast | 👨‍💻 Student and passionate for the TI
+🛠️ Software Engineer 40% | 🚀 AI Enthusiast | 👨‍💻 Student and passionate for the IT
 
 ## 🚀 About me
 - 🌱 I’m currently learning
