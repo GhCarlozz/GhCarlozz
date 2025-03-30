@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning
 - 👥 Open to new ideas and friendships in the industry
 - 📁 You can see the projects that I have published so far by scrolling down
-  P.S. I haven't uploaded all my projects yet.
+  (P.S. I haven't uploaded all my projects yet.)
 ## 💎 Skills
 (I'm still learning so far)
 
